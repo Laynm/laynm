@@ -13,7 +13,8 @@
   <img align="center" alt="Lay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lay-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
-  <img align="right" alt="Lay-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=zrZNxqOjVZ #Picrew #AmphyPop_Doll_Maker">
+  <img align="right" alt="Lay-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/59df64f1c393500ca4c3265b434b5597.gif">
+   
 </div>
   
   ##
@@ -23,3 +24,6 @@
 <a href = "mailto:laysllanmatias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laysllamatiasdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+![Snake animation](https://github.com/laynm/laynm/blob/output/github-contribution-grid-snake.svg)
+
