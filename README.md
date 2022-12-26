@@ -12,9 +12,9 @@
   <img align="center" alt="Lay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lay-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-
+  <img align="center" alt="Lay-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ 
   <img align="right" alt="Lay-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/59df64f1c393500ca4c3265b434b5597.gif">
-   
 </div>
   
   ##
