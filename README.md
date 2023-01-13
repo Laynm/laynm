@@ -26,5 +26,6 @@
   
 ![Snake animation](https://github.com/laynm/laynm/blob/output/github-contribution-grid-snake.svg)
 
+
 </div>
 
