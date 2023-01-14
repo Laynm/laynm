@@ -1,5 +1,5 @@
 ## 💻 Hello!!! I'm Layslla Matias and today I'm a front-end developer 👋
-#### 📒Bachelor of Systems Analysis and Development and in the future I intend to become a fullstack developer 🤖
+#### 📒Bachelor of Systems Analysis and Development and in the future I intend to become a fullstack developer! 🤖
 
 <div align="center">
   <a href="https://github.com/laynm">
